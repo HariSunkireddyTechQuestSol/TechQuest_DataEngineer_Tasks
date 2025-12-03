@@ -1,0 +1,31 @@
+id,product,quantity,price
+1,Keyboard,2,25
+2,Mouse,1,15
+3,Laptop,1,850
+4,Monitor,2,120
+5,Chair,3,45
+6,Desk,1,150
+7,Webcam,2,60
+8,Headset,1,40
+9,USB Cable,4,8
+10,Tablet,1,300
+11,Laptop Stand,2,35
+12,HDMI Cable,3,12
+13,Printer,1,130
+14,Scanner,1,115
+15,Phone,1,700
+16,Charger,3,20
+17,SSD,2,90
+18,HDD,1,70
+19,Graphics Card,1,450
+20,Power Supply,1,95
+21,Keyboard,1,25
+22,Mouse Pad,2,10
+23,Speakers,1,55
+24,Microphone,1,80
+25,Router,1,100
+26,Switch,1,45
+27,LAN Cable,5,5
+28,UPS,1,110
+29,Monitor,1,120
+30,Laptop,1,900

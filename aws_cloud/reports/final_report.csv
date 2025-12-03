@@ -1,0 +1,96 @@
+customer_id,name,age,city,source_file,row_total,order_id,amount,id,product,quantity,price
+101.0,John,29.0,New York,customers.csv,130,,,,,,
+102.0,Sara,24.0,Chicago,customers.csv,126,,,,,,
+103.0,Will,33.0,San Diego,customers.csv,136,,,,,,
+104.0,Ana,27.0,Austin,customers.csv,131,,,,,,
+105.0,Raj,31.0,Seattle,customers.csv,136,,,,,,
+106.0,Maria,26.0,Miami,customers.csv,132,,,,,,
+107.0,Leo,35.0,Boston,customers.csv,142,,,,,,
+108.0,Rachel,28.0,Denver,customers.csv,136,,,,,,
+109.0,Vikram,32.0,Dallas,customers.csv,141,,,,,,
+110.0,Ayesha,25.0,Houston,customers.csv,135,,,,,,
+111.0,Sam,30.0,Portland,customers.csv,141,,,,,,
+112.0,Rita,22.0,Phoenix,customers.csv,134,,,,,,
+113.0,Daniel,34.0,Philadelphia,customers.csv,147,,,,,,
+114.0,Chris,29.0,Detroit,customers.csv,143,,,,,,
+115.0,Meera,27.0,San Jose,customers.csv,142,,,,,,
+116.0,Jay,31.0,San Antonio,customers.csv,147,,,,,,
+117.0,Oliver,36.0,Charlotte,customers.csv,153,,,,,,
+118.0,Nina,23.0,Orlando,customers.csv,141,,,,,,
+119.0,Jake,28.0,Minneapolis,customers.csv,147,,,,,,
+120.0,Sophia,24.0,Las Vegas,customers.csv,144,,,,,,
+121.0,Liam,29.0,Columbus,customers.csv,150,,,,,,
+122.0,Emma,27.0,Baltimore,customers.csv,149,,,,,,
+123.0,Noah,33.0,Sacramento,customers.csv,156,,,,,,
+124.0,Ava,26.0,Salt Lake City,customers.csv,150,,,,,,
+125.0,Lucas,30.0,Indianapolis,customers.csv,155,,,,,,
+101.0,,,,orders.csv,802,501.0,200.0,,,,
+102.0,,,,orders.csv,754,502.0,150.0,,,,
+103.0,,,,orders.csv,906,503.0,300.0,,,,
+104.0,,,,orders.csv,783,504.0,175.0,,,,
+105.0,,,,orders.csv,1010,505.0,400.0,,,,
+106.0,,,,orders.csv,862,506.0,250.0,,,,
+107.0,,,,orders.csv,794,507.0,180.0,,,,
+108.0,,,,orders.csv,841,508.0,225.0,,,,
+109.0,,,,orders.csv,968,509.0,350.0,,,,
+110.0,,,,orders.csv,710,510.0,90.0,,,,
+111.0,,,,orders.csv,757,511.0,135.0,,,,
+112.0,,,,orders.csv,784,512.0,160.0,,,,
+113.0,,,,orders.csv,1046,513.0,420.0,,,,
+114.0,,,,orders.csv,838,514.0,210.0,,,,
+115.0,,,,orders.csv,725,515.0,95.0,,,,
+116.0,,,,orders.csv,962,516.0,330.0,,,,
+117.0,,,,orders.csv,1134,517.0,500.0,,,,
+118.0,,,,orders.csv,781,518.0,145.0,,,,
+119.0,,,,orders.csv,943,519.0,305.0,,,,
+120.0,,,,orders.csv,860,520.0,220.0,,,,
+121.0,,,,orders.csv,827,521.0,185.0,,,,
+122.0,,,,orders.csv,904,522.0,260.0,,,,
+123.0,,,,orders.csv,1036,523.0,390.0,,,,
+124.0,,,,orders.csv,788,524.0,140.0,,,,
+125.0,,,,orders.csv,860,525.0,210.0,,,,
+101.0,,,,orders.csv,887,526.0,260.0,,,,
+102.0,,,,orders.csv,809,527.0,180.0,,,,
+103.0,,,,orders.csv,981,528.0,350.0,,,,
+104.0,,,,orders.csv,823,529.0,190.0,,,,
+105.0,,,,orders.csv,1055,530.0,420.0,,,,
+106.0,,,,orders.csv,877,531.0,240.0,,,,
+107.0,,,,orders.csv,839,532.0,200.0,,,,
+108.0,,,,orders.csv,951,533.0,310.0,,,,
+109.0,,,,orders.csv,803,534.0,160.0,,,,
+110.0,,,,orders.csv,895,535.0,250.0,,,,
+111.0,,,,orders.csv,922,536.0,275.0,,,,
+112.0,,,,orders.csv,879,537.0,230.0,,,,
+113.0,,,,orders.csv,1031,538.0,380.0,,,,
+114.0,,,,orders.csv,848,539.0,195.0,,,,
+115.0,,,,orders.csv,860,540.0,205.0,,,,
+,,,,sales.csv,28,,,1.0,Keyboard,2.0,25.0
+,,,,sales.csv,18,,,2.0,Mouse,1.0,15.0
+,,,,sales.csv,854,,,3.0,Laptop,1.0,850.0
+,,,,sales.csv,126,,,4.0,Monitor,2.0,120.0
+,,,,sales.csv,53,,,5.0,Chair,3.0,45.0
+,,,,sales.csv,157,,,6.0,Desk,1.0,150.0
+,,,,sales.csv,69,,,7.0,Webcam,2.0,60.0
+,,,,sales.csv,49,,,8.0,Headset,1.0,40.0
+,,,,sales.csv,21,,,9.0,USB Cable,4.0,8.0
+,,,,sales.csv,311,,,10.0,Tablet,1.0,300.0
+,,,,sales.csv,48,,,11.0,Laptop Stand,2.0,35.0
+,,,,sales.csv,27,,,12.0,HDMI Cable,3.0,12.0
+,,,,sales.csv,144,,,13.0,Printer,1.0,130.0
+,,,,sales.csv,130,,,14.0,Scanner,1.0,115.0
+,,,,sales.csv,716,,,15.0,Phone,1.0,700.0
+,,,,sales.csv,39,,,16.0,Charger,3.0,20.0
+,,,,sales.csv,109,,,17.0,SSD,2.0,90.0
+,,,,sales.csv,89,,,18.0,HDD,1.0,70.0
+,,,,sales.csv,470,,,19.0,Graphics Card,1.0,450.0
+,,,,sales.csv,116,,,20.0,Power Supply,1.0,95.0
+,,,,sales.csv,47,,,21.0,Keyboard,1.0,25.0
+,,,,sales.csv,34,,,22.0,Mouse Pad,2.0,10.0
+,,,,sales.csv,79,,,23.0,Speakers,1.0,55.0
+,,,,sales.csv,105,,,24.0,Microphone,1.0,80.0
+,,,,sales.csv,126,,,25.0,Router,1.0,100.0
+,,,,sales.csv,72,,,26.0,Switch,1.0,45.0
+,,,,sales.csv,37,,,27.0,LAN Cable,5.0,5.0
+,,,,sales.csv,139,,,28.0,UPS,1.0,110.0
+,,,,sales.csv,150,,,29.0,Monitor,1.0,120.0
+,,,,sales.csv,931,,,30.0,Laptop,1.0,900.0

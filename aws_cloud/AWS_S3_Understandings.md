@@ -1,0 +1,7 @@
+An S3 bucket is basically a cloud-based storage space where I can keep any kind of file such as CSVs, JSON files, logs, or images. I think of it like a folder in the cloud, but much more reliable and scalable. Each file stored inside the bucket is treated as an object, and every object has a unique key that represents its path and name. S3 also allows me to control who can access the bucket or specific files inside it.
+
+Uploading a file to S3 means moving a file from my local machine or from an application into this cloud storage. In a real AWS environment, I can upload files using the AWS Console, AWS CLI, or through programming SDKs like Python’s boto3. When I upload something, S3 stores it as an object and assigns it a unique key. Even large files are handled easily because S3 automatically uses multi-part uploads behind the scenes.
+
+Retrieving a file from S3 simply means downloading or reading the file back from the bucket to my local system or into a script. I can retrieve files from the console, using CLI commands, or programmatically using boto3’s get_object method. Once I get the file, I can use it for ETL, processing, reporting, or analysis.
+
+S3 is widely used in data engineering because it’s cheap, scalable, and integrates well with other AWS services. It works like a data lake where I can store raw, processed, and curated data layers, making it a core component of most ETL workflows.
