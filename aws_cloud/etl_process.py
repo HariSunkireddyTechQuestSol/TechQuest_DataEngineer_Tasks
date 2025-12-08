@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 
+# Defininf ETL function 
 def etl_process(cloud_folder="cloud", report_folder="reports"):
     os.makedirs(report_folder, exist_ok=True)
     aggregated = []
@@ -23,5 +24,6 @@ def etl_process(cloud_folder="cloud", report_folder="reports"):
     print(f"ETL complete → {output_path}")
     return final_df
 
+# Calling the ETL function 
 if __name__ == "__main__":
     etl_process()

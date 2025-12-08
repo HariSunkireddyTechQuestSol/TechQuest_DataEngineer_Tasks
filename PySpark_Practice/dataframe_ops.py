@@ -8,7 +8,7 @@ def main():
         .getOrCreate()
 
     # 2. Read CSV
-    input_path = "input/data.csv"   # change path as needed
+    input_path = "../input/data.csv"
     df = spark.read.csv(input_path, header=True, inferSchema=True)
 
     # 3. Show schema
