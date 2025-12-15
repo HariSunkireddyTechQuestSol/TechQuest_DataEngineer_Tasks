@@ -226,13 +226,10 @@ This 8-week program provided comprehensive, hands-on exposure to core data engin
 The repository reflects progressive learning from Python basics to a full-scale capstone ETL project, demonstrating readiness for entry-level to intermediate data engineering roles.
 
 ---
-
 ## Author
 
 **Hari Sunkireddy**
-
-Data Engineering Trainee
+*Data Engineering Trainee*
 GitHub: https://github.com/HariSunkireddyTechQuestSol/TechQuest_DataEngineer_Tasks
-
 ---
 
