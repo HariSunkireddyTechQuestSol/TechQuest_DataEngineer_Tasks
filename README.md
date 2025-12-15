@@ -230,6 +230,7 @@ The repository reflects progressive learning from Python basics to a full-scale 
 ## Author
 
 **Hari Sunkireddy**
+
 Data Engineering Trainee
 GitHub: https://github.com/HariSunkireddyTechQuestSol/TechQuest_DataEngineer_Tasks
 
